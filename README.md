@@ -1,16 +1,32 @@
-# updated_one
+# Blood Sugar Monitoring App
 
-A new Flutter project.
+This Flutter application is designed to help users monitor their blood sugar levels and receive appropriate feedback based on their input.
+
+## Features
+
+- **Input Screen**: Users can enter their age, gender, pregnancy status, and blood sugar levels before and after meals.
+- **Information Screen**: Based on the input provided, the app categorizes the user's blood sugar level and provides relevant feedback.
+- **Data Validation**: The app validates user input to ensure accurate results.
+- **Pregnancy Support**: If the user is pregnant, the app provides specialized feedback tailored to their pregnancy status.
+- **Styling and Theming**: The app features a dark theme with custom styling for a sleek and modern user interface.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the app on your local machine, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Ensure you have Flutter installed on your machine. If not, follow the instructions on the [Flutter website](https://flutter.dev/docs/get-started/install).
+2. Clone this repository to your local machine.
+3. Open the project directory in your preferred code editor.
+4. Connect a device or start a simulator/emulator.
+5. Run `flutter pub get` to install dependencies.
+6. Run `flutter run` to start the app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contributing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contributions are welcome! If you encounter any bugs or have suggestions for improvements, please open an issue on GitHub.
+
+
+## Acknowledgements
+
+Special thanks to Dr. Azmeer Mohomad for his guidance and support on this module.
+
